@@ -1,6 +1,16 @@
 os.loadAPI("Petals")
 os.loadAPI("Rune")
 
+daybloom = {Petals.mystical("Yellow"),
+  Petals.mystical("Yellow"),
+  Petals.mystical("Orange"),
+  Petals.mystical("Light Blue")}
+  
+pureDaisy = {Petals.mystical("White"),
+  Petals.mystical("White"),
+  Petals.mystical("White"),
+  Petals.mystical("White")}
+
 thermalily = {Rune.rune("Fire"),
   Rune.rune("Earth"),
   Petals.mana("Orange"),
