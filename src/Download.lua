@@ -1,3 +1,6 @@
 shell.run("pastebin","get","5esqW1we","cInv")
-shell.run("pastebin","get","5esqW1we","cInv")
-shell.run("pastebin","get","5esqW1we","cInv")
+shell.run("pastebin","get","LYQTmEv2","Rune")
+shell.run("pastebin","get","SLRJBh2v","Recipes")
+shell.run("pastebin","get","KVA6D0cr","CraftRune")
+shell.run("pastebin","get","MrVZGt0K","Petals")
+shell.run("pastebin","get","eMb0KFk8","CraftFlower")
