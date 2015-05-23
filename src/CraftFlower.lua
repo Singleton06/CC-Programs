@@ -5,6 +5,7 @@ os.loadAPI("Recipes")
 if table.getn(args) < 2 then
   print("Usage - CraftFlower <flower> <count>")
   print("Available Flowers:")
+  print("enodflame")
   print("pureDaisy")
   print("daybloom")
   print("thermalily")
@@ -17,6 +18,8 @@ num = args[2]
  
 if name == "hopperhock" then
   cInv.craftFlowers(Recipes.hopperhock, num)
+elseif name == "endoflame"
+  cInv.craftFlowers(Recipes.endoflame, num)
 elseif name == "thermalily" then
   cInv.craftFlowers(Recipes.thermalily, num)
 elseif name == "jaded" then
