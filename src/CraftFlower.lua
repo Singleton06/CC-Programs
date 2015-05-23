@@ -18,7 +18,7 @@ num = args[2]
  
 if name == "hopperhock" then
   cInv.craftFlowers(Recipes.hopperhock, num)
-elseif name == "endoflame"
+elseif name == "endoflame" then
   cInv.craftFlowers(Recipes.endoflame, num)
 elseif name == "thermalily" then
   cInv.craftFlowers(Recipes.thermalily, num)
