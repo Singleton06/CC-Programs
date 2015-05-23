@@ -5,8 +5,9 @@ os.loadAPI("Recipes")
 if table.getn(args) < 2 then
   print("Usage - CraftRune <rune> <count>")
   print("Available Runes:")
+  print("runeOfAir")
   print("runeOfEarth")
-  print("runeOfEarth")
+  print("runeOfFire")
  
 end
  
@@ -17,4 +18,6 @@ if name == "runeOfEarth" then
   cInv.craftRunes(Recipes.runeOfEarth, num)
 elseif name == "runeOfFire" then
   cInv.craftRunes(Recipes.runeOfFire, num)
+elseif name == "runeOfAir" then
+  cInv.craftRunes(Recipes.runeOfAir, num)
 end
