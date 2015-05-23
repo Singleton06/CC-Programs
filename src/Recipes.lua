@@ -1,6 +1,12 @@
 os.loadAPI("Petals")
 os.loadAPI("Rune")
 
+endoflame = {Petals.mystical("Brown"),
+  Petals.mystical("Red"),
+  Petals.mana("Red"),
+  Petals.mana("Brown"),
+  Petals.mystical("Light Gray")}
+
 daybloom = {Petals.mystical("Yellow"),
   Petals.mystical("Yellow"),
   Petals.mystical("Orange"),
