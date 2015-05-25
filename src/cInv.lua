@@ -32,7 +32,7 @@ function dropRecipe(recipe)
     print ("dropping item " .. item)
    
     dropItem(item)
-    sleep(1)
+    sleep(0.3)
   end
 end
  
