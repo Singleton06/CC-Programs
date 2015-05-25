@@ -67,7 +67,7 @@ runeOfEarth =
     "Manasteel Ingot",
     "Bone Meal",
     "Fishing Rod",
-    "Sugar Cane"}
+    "Sugar Canes"}
   
 runeOfSpring = 
  {"Rune of Water",
