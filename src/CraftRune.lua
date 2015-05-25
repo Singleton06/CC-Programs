@@ -10,11 +10,17 @@ if table.getn(args) < 2 then
   print("runeOfFire")
   print("runeOfWater")
   print("runeOfSpring")
-  print("runeOfSpring")
-  print("runeOfSpring")
-  print("runeOfSpring")
-  print("runeOfSpring")
- 
+  print("runeOfSummer")
+  print("runeOfAutumn")
+  print("runeOfWinter")
+  print("runeOfMana")
+  print("runeOfLust")
+  print("runeOfGluttony")
+  print("runeOfGreed")
+  print("runeOfSloth")
+  print("runeOfWrath")
+  print("runeOfEnvy")
+  print("runeOfPride")
 end
  
 name = args[1]
