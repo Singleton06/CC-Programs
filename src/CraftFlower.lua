@@ -28,4 +28,6 @@ elseif name == "daybloom" then
   cInv.craftFlowers(Recipes.daybloom, num)
 elseif name == "pureDaisy" then
   cInv.craftFlowers(Recipes.pureDaisy, num)
+elseif name == "loonium" then
+  cInv.craftFlowers(Recipes.loonium, num)
 end
