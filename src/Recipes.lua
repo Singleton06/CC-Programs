@@ -49,6 +49,13 @@ loonium = {Petals.mystical("Gray"),
   Rune.rune("Envy"),
   "Pixie Dust"}
 
+hydroangeas = {Petals.mystical("Blue"),
+  Petals.mana("Blue"),
+  Petals.mystical("Cyan"),
+  Petals.mystical("Cyan"),
+  Petals.mana("Cyan"),
+  Petals.mystical("Pink")}
+
 runeOfFire =
   {"Manasteel Ingot",
     "Manasteel Ingot",
