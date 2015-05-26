@@ -11,6 +11,8 @@ if table.getn(args) < 2 then
   print("thermalily")
   print("hopperhock")
   print("jaded") -- crafts jadedAmaranthus, no one wants to spell that out though
+  print("loonium")
+  print("hydroangeas")
 end
  
 name = args[1]
@@ -30,4 +32,6 @@ elseif name == "pureDaisy" then
   cInv.craftFlowers(Recipes.pureDaisy, num)
 elseif name == "loonium" then
   cInv.craftFlowers(Recipes.loonium, num)
+elseif name == "hydroangeas" then
+  cInv.craftFlowers(Recipes.hydroangeas, num)
 end
