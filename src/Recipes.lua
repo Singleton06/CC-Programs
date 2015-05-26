@@ -44,9 +44,10 @@ loonium = {Petals.mystical("Gray"),
   Petals.mana("Green"),
   Petals.mana("Gray"),
   "Redstone Root",
-  Runes.rune("Sloth"),
-  Runes.rune("Gluttony"),
-  Runes.rune("Envy")}
+  Rune.rune("Sloth"),
+  Rune.rune("Gluttony"),
+  Rune.rune("Envy"),
+  "Pixie Dust"}
 
 runeOfFire =
   {"Manasteel Ingot",
