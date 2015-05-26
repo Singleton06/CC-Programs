@@ -37,6 +37,17 @@ jadedAmaranthus =  {Rune.rune("Spring"),
   Petals.mystical("Purple"),
   Petals.mana("Purple")}
 
+loonium = {Petals.mystical("Gray"),
+  Petals.mystical("Green"),
+  Petals.mystical("Green"),
+  Petals.mana("Green"),
+  Petals.mana("Green"),
+  Petals.mana("Gray"),
+  "Redstone Root",
+  Runes.rune("Sloth"),
+  Runes.rune("Gluttony"),
+  Runes.rune("Envy")}
+
 runeOfFire =
   {"Manasteel Ingot",
     "Manasteel Ingot",
@@ -94,7 +105,7 @@ runeOfAutumn =
   "Spider Eye"}
 
 runeOfWinter = 
- {"Rune Of Earth",
+ {"Rune of Earth",
   "Rune of Water",
   "Snow",
   "Snow",
