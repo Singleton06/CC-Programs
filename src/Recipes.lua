@@ -55,6 +55,13 @@ hydroangeas = {Petals.mystical("Blue"),
   Petals.mystical("Cyan"),
   Petals.mana("Cyan"),
   Petals.mystical("Pink")}
+  
+solegnolia = {Petals.mystical("Red"),
+  Petals.mystical("Red"),
+  Petals.mystical("Blue"),
+  Petals.mystical("Brown"),
+  Petals.mana("Brown"),
+  "Redstone Root"}
 
 runeOfFire =
   {"Manasteel Ingot",
