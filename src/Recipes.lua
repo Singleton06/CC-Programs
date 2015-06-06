@@ -63,6 +63,30 @@ solegnolia = {Petals.mystical("Red"),
   Petals.mana("Brown"),
   "Redstone Root"}
 
+bellethorne = {Petals.mana("Red"),
+  Petals.mana("Red"),
+  Petals.mystical("Red"),
+  Petals.mystical("Cyan"),
+  Petals.mystical("Cyan"),
+  "Redstone Root"}
+
+fallenKanade = {Rune.rune("Spring"),
+  Petals.mystical("White"),
+  Petals.mana("White"),
+  Petals.mana("White"),
+  Petals.mana("Yellow"),
+  Petals.mana("Orange"),
+  Petals.mana("Brown")}
+  
+heiseiDream = {Rune.rune("Wrath"),
+  "Pixie Dust",
+  Petals.mana("Purple"),
+  Petals.mana("Pink"),
+  Petals.mana("Magenta"),
+  Petals.mystical("Purple"),
+  Petals.mystical("Pink"),
+  Petals.mystical("Magenta")}
+
 runeOfFire =
   {"Manasteel Ingot",
     "Manasteel Ingot",
