@@ -35,6 +35,7 @@ jadedAmaranthus =  {Rune.rune("Spring"),
   Petals.mystical("Lime"),
   Petals.mystical("Green"),
   Petals.mystical("Purple"),
+  Petals.mana("Purple"),
   Petals.mana("Purple")}
 
 loonium = {Petals.mystical("Gray"),
