@@ -5,7 +5,7 @@ shell.run("rm", "CraftRune")
 shell.run("rm", "Petals")
 shell.run("rm", "CraftFlower")
 shell.run("rm", "github")
-shell.run("rm", "CC-Programs")
+shell.run("rm", "/downloads/CC-Programs")
 
 shell.run("pastebin", "get", "wPtGKMam", "github")
 shell.run("github", "Singleton06", "CC-Programs")
