@@ -1,6 +1,26 @@
-shell.run("pastebin","get","5esqW1we","cInv")
-shell.run("pastebin","get","LYQTmEv2","Rune")
-shell.run("pastebin","get","SLRJBh2v","Recipes")
-shell.run("pastebin","get","KVA6D0cr","CraftRune")
-shell.run("pastebin","get","MrVZGt0K","Petals")
-shell.run("pastebin","get","eMb0KFk8","CraftFlower")
+shell.run("rm", "cInv")
+shell.run("rm", "Rune")
+shell.run("rm", "Recipes")
+shell.run("rm", "CraftRune")
+shell.run("rm", "Petals")
+shell.run("rm", "CraftFlower")
+shell.run("rm", "github")
+shell.run("rm", "CC-Programs")
+
+shell.run("pastebin", "get", "wPtGKMam", "github")
+shell.run("github", "Singleton06", "CC-Programs")
+
+function moveFile(fileName)
+  shell.run("mv", "/CC-Programs/src/".. fileName .. ".lua", "/" .. fileName)  
+end
+
+
+shell.run("mv", "/CC-Programs/src/cInv.lua", "/cInv")
+shell.run("mv", "/CC-Programs/src/CraftFlower.lua", "/CraftFlower")
+
+moveFile("cInv")
+moveFile("Rune")
+moveFile("Recipes")
+moveFile("CraftRune")
+moveFile("Petals")
+moveFile("CraftFlower")
