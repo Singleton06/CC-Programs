@@ -11,7 +11,7 @@ shell.run("pastebin", "get", "wPtGKMam", "github")
 shell.run("github", "Singleton06", "CC-Programs")
 
 function moveFile(fileName)
-  shell.run("mv", "/CC-Programs/src/".. fileName .. ".lua", "/" .. fileName)  
+  shell.run("mv", "/downloads/CC-Programs/src/".. fileName .. ".lua", "/" .. fileName)  
 end
 
 
