@@ -1,11 +1,12 @@
+-- Recipes for Botania v1.8-244
 os.loadAPI("Petals")
 os.loadAPI("Rune")
 
 endoflame = {Petals.mystical("Brown"),
+  Petals.mystical("Brown"),
   Petals.mystical("Red"),
-  Petals.mana("Red"),
-  Petals.mana("Brown"),
-  Petals.mystical("Light Gray")}
+  Petals.mystical("Light Gray"),
+  "Mana Powder"}
 
 daybloom = {Petals.mystical("Yellow"),
   Petals.mystical("Yellow"),
